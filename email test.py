@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# Developer: Xianglin Wu (xianglin3092@gmail.com)
 import _Email
 
 sender_address = 'xxxxxxxx@gmail.com'
